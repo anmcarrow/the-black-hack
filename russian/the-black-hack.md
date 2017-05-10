@@ -557,7 +557,7 @@ _Каждый ведущий волен сам выбрать один из пр
 
 **Уровень 1**
 
-* **Излечение лёгких ран :** Heal 1d8 HP to a Nearby target.
+* **Излечение лёгких ран :** Восстанавливает d8 пунктов здоровья у находящейся неподалёку цели.
 * **Обнаружение Зла:** Everything Nearby that is evil glows - 5mins.
 * **Свет:** Create dim light from a Nearby spot or object - 1hr.
 * **Защита от Зла, малая:** Advantage on all harmful tests from an Evil source - 1hr.
