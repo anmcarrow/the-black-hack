@@ -1,241 +1,269 @@
-# Additional Things
+# Дополнения
 
 by David Black
 
 v1.0
 
-## Thank you
+## Благодарности
 
-It's a fair assumption that if you are reading this, you backed the Kickstarter/ Bought a PDF from RPG.now. So thanks. Thanks a bunch. That may sound sarcastic, but it’s not, I really am grateful. Here's a little something extra to show you how much I appreciate all the support you have given TBH! Oh and if you didn’t support the Kickstarter/ bought a PDF I guess you must have pirated it somehow. Frankly I’m just flattered you care enough.
+Раз вы читаете это, то, скорее всего, вы поддержали выход моей игры на Kickstarter или купли PDF на RPGnow.com _(впрочем, мы-то знаем, этот текст взят из бесплатной онлайн-версии игры -- прим. пер.)_. Если так - то спасибо вам большое. Конечто это "спасибо" может прозвучать немного саркастично, но, на самом деле, я вам чрезвычайно признателен. И вот вам немного дополнительного контента, просто чтобы выразить мою признательность!
 
-## Rules alternatives
+И, да, если вы не из тех кто поддерживал игру на Kickstarter и даже не из тех, кто купил PDF,  то вы наверно как-то спиратили мою игру. Если так, то я весьма польщён вашим вниманием.
 
-**Additional Things** is a collection of optional rules, notes, suggestions and other ideas that, for one reason or another were not included in TBH’s mini rulebook. Mostly because of space, possibly because they’re dumb - I’ll let you decide which. Choose which you want, if any, to include in your game. Some of these have appeared on my blog or social media - but its nice things all neat like, eh?
+----
 
-## Encumbrance
+"Дополнения" это коллекция опциональных механик, заметок, рацпредложений и идей, которые, по тем или ины причинам, не были включены в основной буклет правил.
 
-The existing rules are designed to be a quick way of modelling weight, plus the difficulty of carrying lots things. If you are looking for more depth/complication use the following modification.
+Чаще всего такими причинами становилась забота об объёме буклета, ну или дополнения просто были недостаточно хороши -- решайте сами. Вы можете самостоятельно выбрать что из предложенного включить или не включать в вашу игру.
 
-Every item can have multiple keywords from the following list, for each one the item weighs ‘1’ more :
+Часть дополнений изначально была опубликована мной в блоге или других социальных медиа, но только это не делает их плохими, верно?
 
-* **Fragile** – Items that are prone to breaking, or to damage.
-* **Long** – Objects longer than 5ft in any dimension.
-* **Cumbersome** – Things that are shaped in ungainly or awkward ways,
-* **Heavy** – Objects that despite their size require greater effort to move.
-* **Difficult** - Objects that are hard to store or handle, for example hot or dangerous things.
+## Нагрузка
 
+_Базовые правила были созданы только для прмерной оценки нагрузки и сложности транспортировки предметов. Если вы нуждаетесь в более взвешенном подходе, то можете воспользоваться нижеприведённой альтернативой._
 
-*You’ll notice that this modification is going to weigh down characters a lot, not everyone enjoys the logistics of gear management. If you do use this consider adding items to your game that ignore these rules, making the item more desirable. For example Plate & Mail would always be Cumbersome and Heavy in my game - so I would make a Expert Crafted set that isn’t Cumbersome, then a Master Crafted set that’s neither - making it super desirable.*
+Каждый предмет может быть охарактеризован несколькими словами-метками из нижележащего списка, и каждая такая метка увеличивает _вес_ предмета ещё на 1.
 
+- **Хрупкий** -- предмет легко разбить или сломать;
+- **Длинный** -- объект длиннее полутора метров по любой из своих сторон;
+- **Громоздкий** -- форма объекта делает его крайне неудобным для переноски;
+- **Увесистый** -- при сравнительно небольшом объёме, предмет крайне тяжёл;
+- **Затруднительный** --  такой объект непросто удержать или обеспечить ему должные условия хранения (пример: очень горячий или крайне взрывоопасный объект).
 
-## Magic variant
+> Все эти модификации несколько утяжеляют игру, и далеко не всем игрокам может прийтись по нраву подобный мироменеджмент. Так что, если вы захотите использовать эти правила, добавьте в игру особенно притягательные предметы, ценные тем, что игнорируют правила по нагрузке.
 
-A very simple ‘narrative’ twist can be made that dramatically changes the way spells are obtained and treated.
+> **Пример:** кольчуги и латы в моей игре _громоздкие_ и _увесистые_, однако существуют особые, _мастерски изготовленные_, доспехи, которые не обладают качеством _громоздкость_, чем и вызывают искренний интерес у игроков.
 
-Each spell is a unique item. Much like a ‘named’ magical item or relic, only one instance of the spell exists. It can be stolen, they can be forgotten and discovered again, they can be researched and located - but there can never be more that one copy of that spell (in a book) in the game-world. A spell can be memorised from someone else’s book - and cast. The caster testing their **INT** as per normal, to see if they lose the ability to cast one spell of that level.
+## Уникальная магия
 
-*These changes have a massive impact on how magic users will advance in power - talk it through with your players before you mess up their fun.*
+Очень простой повествовательный хак, драматическим образом меняющий получение и использование заклинаний.
 
+_Каждое заклинание уникально._ Подобно уникальным магическим предметам, каждое заклинание существует в единичном экземпляре. Оно может быть украдено, утеряно и снова открыто, оно может быть выслежено и его местонахождение может быть точно установлено, но ни при каких условиях в мире не может быть больше одной книги мага с этим заклинанием.
 
-## Panic and light
+Впрочем, даже такое заклинание может быть заучено и наложено кем-либо, согласно базовым правилам, через проверку _интеллекта_, с риском потери _слота_ соответствующего уровня.  
 
-Whilst exploring subterranean places light is incredibly important, if a character ends their turn in a place with absolute pitch darkness they must immediately make a **WIS** test. If they succeed they may continue to act as normal but if they fail, they **Panic!**
+> Это доп. правило коренным образом изменяет получение и увеличние способностей мага. Обязательно обсудите с игроками использование применение этого правила до того, как испортите им всё удовольствие.
 
-At the start of their turn they must roll on the **Panic!** table, and at the end of their turn they may make a **WIS** test to overcome act normally. This continues until the make a successful **WIS** test.
+## Темнота и паника
 
-|   | PANIC!                                                                              |
-|:-:|:------------------------------------------------------------------------------------|
-| 1 | **Gritted Teeth** - Make a free **WIS** test in order to end the Panic.             |
-| 2 | **Rooted** - Cannot move this turn.                                                 |
-| 3 | **Shock** - Cannot perform any actions that would involve the use of your hands.    |
-| 4 | **Fumble** - The *player* must perform everything this turn with their eyes closed. |
-| 5 | **Life before the eyes** - **CON** is reduced by 2.                                 |
-| 6 | **Heart Attack** - Taken **Out of Action**                                          |
+Источники света чрезвычайно важны в процессе исследования различных подземелий. Когда персонаж заканчивает свой _ход_ в полной темноте, он должен немедленно пройти проверку _мудрости_. В случае успеха ничего не меняется, в случае провала персонаж впадает в _панику_.
 
-*I think the Panic! rules are a worthy inclusion in any dungeon delving scenario - but might not be for everyone's taste, so were cut for space in the main rulebook. Also if you don't like the 'party game' vibe of the Fumble result, consider changing that to something more boring.*
+Игрок _паникующего_ персонажа в начале следующего хода должен произвести проверку по "Таблице паники" и, в конце хода, произвести проверку возвращения персонажа в норму. Паника продолжается до первой успешной проверки _мудрости_
 
-## Weaker warriors
+|   | Таблица паники |                                                    |:-:|:------------------------------------------------------------------------------------|
+| 1 | **Скрежет зубовный** - +1 бесплатная проверка _мудрости_ чтобы избежать _паники_.             |
+| 2 | **Ноги приросли** - не может передвигаться в течение хода.                                                 |
+| 3 | **Шок** - не может ничего делать руками.    |
+| 4 | **Слепота** - _игрок_ в течение следующего хода играет зажмурившись. |
+| 5 | **Слабость** - _ТЕЛ_ уменьшается на 2.                                 |
+| 6 | **Инфаркт** - персонаж _выведен из строя_                                          |
 
-Originally Warriors were a little weaker, but received a 'buff' in power - based on feedback given early on in the Kickstarter. To bring them back to where they were, rule that every additional target they attack must be a new target with equal or lower HD than the last.
+Лично я считаю, что правила _паники_ стоят того, чтобы включить их в сюжеты с исследованием подземелий. Но эти правила не всем могут прийтись по вкусу, и вот почему они не включены в основной буклет. И конечно, если вам не нравится последствие _Слепота_, вы легко можете заменить его на что-нибудь более скучное.
 
-*This reduces the number of opportunities to use their special ability and forces the damage to be spread out. A target can be attacked twice, but an additional target must be attacked between the attacks - this entirely stops the high level Warriors 'damage dumping' on single targets.*
+## Слабость воина
 
-## Blocking
+Изначально _воины_ в _TBH_ были довольно слабыми, но потом я их усилил, согласно рекомендациям бэкеров Kickstarter. Чтобы вернуть воинам былую слабость, просто обозначьте, что любая дополнительаная атака должна быть направлена на новую цель, с КЗ равной или меньшей, чем у первоначально атакуемого противника.   
 
-Once per turn, when an NPC makes a move to somewhere **Nearby**, and at the end of the move they would end up being **Close** to an ally - a character may move and block the path of the NPC. The character must have *not* used its movement this turn. This action stops the NPC engaging their ally, although the character is likely to be receive the attack of the NPC they blocked.
+> Это правило уменьшает возможности использования спец. способностией воина и количество макисмально наносимого урона в раунд. Один и тот же противник может бть атакован два раза за раунд, но между первой второй атакой воин должен атаковать как минимум ещё одного противника -- что, в свою очередь осложни высокоуровневым воинам практику один раунд вколотить одного из противников в землю.
 
-*I enjoy using miniatures occasionally (when I can get a face to face group.. Woe is me!) So sometimes it feels nice to allow some tactical actions during combats - to take advantage of that 'War-gaming aspect' which can be fun in light doses.*
+## Блокирование
 
-## Money
+Один раз за раунд, когда персонаж ведущего перемещается где-нибудь _поблизости_ чтобы оказаться _рядом_ с одним из союзников персонажа игрока, этот персонаж может (если ещё не перемещался в текущем _моменте_) встать на пути врага и заблокировать его дальнейшее передвижение.
 
-TBH's default is set to a low-money, generic 'coins' approach - allowing GM's to stamp their personality on the campaign. But here's a fun twist - when players pick up money they don't get a set number, rather they get dice (d6).
+ Заблокировавший врага не сможет взаимодействовать со своими союзниками, и скорее всего будет немедленно атакован.
 
-They can count the coins by rolling the dice, which takes an action (Max 4 rolls) and add to the total amount to the coins they are carrying.
+> Иногда мне нравится использовать миниатюры (до тех пор пока не начинается стычка стенка на стенку... и тогда горе мне!). И иногда они действительно полезны в бою -- ну, для того чтобы привнести в игру лёгкий оттенок варгейма.
 
-For every HD a creature has, it is carrying a d6 of coins. So a level 4 Ruffian would be carrying 4d6
+## Случайные деньги
 
-*This a fun distraction but got cut from the main rules for space - I use it all the time. Some players would like to count all their money as they find it; when that’s a handful of coins, say 3d6 worth - that’s fine. But any more than that, make them aware that it will cost them an action on their turn - to do it accurately.*
+Базвые правила _TBH_ используют условный подход к экономике, позволяя ведущему самостоятельно добавить денежной системе своей игры индивидуальности.
 
-*Also if you really want to be flash and have the time/money, get a as many d6 as you can muster, spray paint them gold - then hand those out as treasure - players love it.*
+Однако, вы можете использовать забавный фокус: когда персонаи в игре находят деньги, они не получают точной суммы, вместо этого ведущий выдаёт игрокам _d6_ в качестве _кости использований_.
 
-## Luck
+Теперь игроки могут самостоятельно определить полученную сумму, сделав от 1 до 4 (на выбор) бросков _d6_ и сложив результаты.
 
-Each character is created with one point of Luck - they can trade this in at any time and get a re-roll on any one die, or create one fact of story fiction that does not invoke direct mechanical benefits. The only way to get more is to be awarded them by the GM - I give them out to my players when they mess up really badly. Karma.
+На каждый _КП_ монстра полагается _d6_ монет. Так что Руфианец с КП4 будет стоит _4d6_ монет.  
 
-*You already know whether you like Luck systems or not, and this one's nothing crazy or innovative.*
+Это довольно забавное правило, но оно было удалено из основного буклета по соображениям экономии места. Некоторые игроки любят подсчитывать денежки сразу после их нахождения, так что выдать им, скажем, _3d6_ монет это нормально. Однако учтите, что точный подсчёт займёт у них целое действие в течение всего _хода_.
 
-## Failing forward
+> Также, если у вас достаточно времени и ресурсов, возьмите столько _d6_, сколько сможете найти, выкрасьте их в золотой цвет, а затем используетй как денежные кубики -- игроки такое любят.
 
-If a player fails a roll and a GM suggests it, they may treat the outcome of that action as a success - but they must accept a cost or penalty from the list below, chosen and adapted to fit the narrative by the GM.
+## Немного удачи
 
-| Cost of success                                                                              |
+Каждый герой рождается с одним пунктом _удачи_. За каждый такой пункт игрок может повторно совершить бросок или добавить внутриигровой факт, не приносящий прямых игромеханических выгод.
+
+Единственный способ увеличить свою _удачу_ -- получить её в наградуот ведущего. Лично я выдаю удачу своим игрокам тогда, когда им приходится совсем туго. _Карма_.
+
+> Вы сами наверняка уже знаете нравятся вам такие системы правил или нет, так как они широко распространены и вы с ними наверняка встречались.
+
+## Цена успеха
+
+Когда игрок проваливает бросок на _проверку атрибута_, ведущий может посчитать проверку успешной, но имеющей цену/последствия, которые ведущий выберет из ниже приведённой таблицы (не забывайте её адаптировать к ситуации).
+
+| Цена  успеха |
 |:--------------------------------------------------------------------------------------------:|
-| Roll a d10, this item in the PCs inventory is destroyed/lost.                                |
-| 'Downgrade' the lowest **Consumable dice** the PC has, if its already a d4 the item is gone. |
-| Someone **Nearby** (including the PC) takes 1d6 HP damage.                                   |
-| **Disadvantage** on a future test of the GM's choice.                                        |
-| +2 to the next **Reaction roll** the GM makes.                                               |
-| Rolls of 1-2 when counting coins are obvious counterfeits.                                   |
-| +1 to the next **Out of Action** roll the PC makes.                                          |
+| Брось d10 и уничтожь вещь под выпавшим номеров в инвентаре персонажа.                                |
+| Понизь наименьшую из _костей запаса_, в инвентаре персонажа. Если кость d4, предмет исчезает |
+| Нанеси кому-нибудь _неподалёку_ (включая самого героя) _d6_ пунктов урона.                                   |
+| Одну из следующих проверок (на выбор ведущего) герой будет проходить с _осложнением_.                                        |
+| +2 к следующей проверке _реакции_ для персонажей ведущего                                               |
+| При бросках подсчёта денег 1-2 превращают деньги в очевидные подделки.                                   |
+| +1 к следущему броску проверки на _выход из строя_.                                          |
 
-*Some people scorn failing forward, I find myself using it when I’m looking to engage a story focused player or when i'm feeling generous and the situation is dire - so some mechanical hooks are useful things to have worked up in advance.*
+> Некоторые люди презирают подобные механики, я же использую их когда играю с игроками нацеленными на историю или когда хочу проявить великодушие -- в общем, это правило может быть полезным время от времени.
 
-## Paralysed
+## Паралич
 
-Some monsters in the main rulebook will cause PC's to become Paralysed. Whilst Paralysed a character cannot move, talk or take any actions. At the start of their turn a character can make a CON test, If successful they are no-longer Paralysed and can continue the rest of their turn.
+Некоторые монстры из базового буклета могут вызывать паралич у персонажей игроков. Парализованный персонаж не может перемещаться, говорить и совершать какие-либо действия. В начале каждого своего хода парализованный проходит проверку _телосложения_ и, в случае успеха, продолжает действовать.
 
-*I cut this from the rules for space reasons, it seemed like a GM would be able to come up with something with the implied 'status effect', plus a Clerics advantage on CON tests. You can use the same approach to model lots of impairing effects, Poison, Fire, Insanity, Blindness etc - just vary up the associated attributes.*
+> Это правило не вошло в основной буклет по соображениям экономии места. Хороший ведущий и без него предложит игроку _проверку_ против _временного эффекта_, а Жрецы и вовсе обладают примуществами при проверках _телосложения_.
 
-## Random encounters
+> Вы можете использовать схожую структуру правил для большинства длительных эффектов и стостояний: отравления, воспламенения, безумия, временной слепоты и т.п., просто привязав эти состояния к соответсвующей _проверке атрибута_.
 
-An alternative method of checking for random encounters is to roll a d4 every time the players make a loud noise or stay in a potentially dangerous area longer than 5 **Minutes** (turns). Results of 1 indicate a random encounter.
+## Случайные встречи
 
-*Not everyone likes or can remember to roll a dice every 15 minutes, this offers a much less regimented approach - giving back the GM some control.*
+Альтернативный метод проверки случайных событий и встреч -- бросать _d4_ каждый раз, когда персонажи игроков производят громкие звуки или надолго останавливаются в потенциально опасной местности более чем на 5 минут-ходов. Единица на броске приводит к появлению противников.
 
-## Morale
+> Далеко не всем ведущим нравится делать броски каждые 15 минут по таймеру, и это правило предлагает более привязанный к внутренней структуре игры подход, в то же время возвращая контроль над динамикой повествования в руки ведущего.
 
-If the number of opponents engaged in combat with the players drops by 50% they are 'broken' and a **Reaction roll** should be made to determine their new attitude.
+## Боевой дух
 
-If a character can make a successful **CHA** test the broken opponents will attempt to flee the combat as quickly as possible. If they have a leader fighting amongst them, the **CHA** test is taken with **Disadvantage**.
+Когда количество вступивших в бой противников уменьшается наполовину, они чувствуют неувернность и ведущий производит бросок по _таблице действий персонажей ведущего_ из основного букдета.
 
-*This is a very 'wargamey' feeling rule, which will add an interesting tactical element to combats, if you're so inclined. And remember if the new reaction roll is favourable, yet the NPC's were trying to kill the players a moment before - its no hard stretch to imagine that they are now grovelling for their lives! All of this should be used as a guide, its recommended a GM should exercise their 'narrative common sense'.*
+Когда персонаж игрока производит успешную проверку _харизмы_ против таких, потерявших боевой дух, противников, все они тут же панически отступают из боя. Если у противников есть какой-либо предводитель, проверка _харизмы_ производится с _Осложнением_.
 
-## Hunger & rations
+> Это правило отчётливо пахнет варгеймами и может добавить интересный тактический элемент в боевые сцены, когда это вам необходимо.  
 
-At the start of a session every character rolls their ration’s **Usage die**. If they are unable to eat/drink for any reason - they roll all tests with **Disadvantage** until they do.
+> Учтите, что если результат броска по таблицен реакции означает положительное отношение, а противники только-что пытались убить героев -- очевидно, что теперь они просто вымаливают пощаду. В любом случае, результат броска по таблице стоит рассматривать только как подсказку, интерпретация которой потребует приложения собственного повествовательного навыка от ведущего.
 
-As soon as they have eaten rations, a character regains 1 **HD Hit Points**, they can eat more should the story dictate - but only gain the healing benefit once per games session.
+## Голод и пища
 
-*This is most certainly an abstract approach to hunger - consider this if you always get carried away or like to hand-wave the 'dull aspects' of being alive.*
+В начале каждой игровой встречи каждый персонаж ест, а его игрок бросает свою кость запаса провизии. В том случае, если персонаж не в состоянии поесть, кость запаса можно и не бросать, но все проверки персонаж будет проходить с осложнением, до тех пор пока не поест.
 
-## Weaker foes
+Поев в начале встречи, персонажи восстанавливают 1 пункт запаса здоровья. Конечно же, за втстречу персонажи могут трапезничать неоднократно, особенно если история это предполагает, но прибавка к здоровью им полагается только один раз.
 
-Foes that don't have names are just red-shirts really, and a good red shirt should die in one hit. As long as they take 1 point of damage they go down. Still give them HD as you'll want to know how much damage they dole out per hit.
+Это сильно упрощённый подход к вопросу голода -- минимально достаточный для того, чтобы не упусткать этот "очевидный момент" из виду.
 
-Also if a player is lucky enough to roll a 1 on an attack, the *named* creature is killed outright - preferably in a visceral and overly gory manner.
+## Слабые враги
 
-*This makes the characters feel a little more powerful. I'd probably even use much lower level monsters too, because if i'm using these it's because I want the lawnmower scene from Braindead.*
+Безымянные враги -- куклы для битья, которые, как известно, должны умирать с первого удара. Сразу после получения одного пункта урона такие противники умирают. Однако даже они имеют свой показатель _КП_, просто для определения наносимого ими урона.
 
-## 'Better' armor
+Помимо того, когда игрок достаточно удачлив, чтобы выбросить 1 на броске атаки, даже противник с именем немедленно умирает, особо кровавым и натуралитичным способом.
 
-If you feel like the current Armor system is too weak - here's the first of two alternatives.
+> Такой подход делает персонажей игроков более могущественными. В сочетании с этим правилом я бы использовал очень много низкоуровневых монстров, потому что, если я и использую это правило, то только затем, чтобы устроить подобие сцены с газонокосилкой из фильма "Живая мертвечина".
 
-Armor Points (AP) reduce damage in the same way, however they don't run out - so each hit is reduced by the Armor points amount. Every piece of Armor now has a Usage Die (UD)- *see the table opposite*.
+## 'Улучшение' брони
 
-| Type         | UD  | AP |
+Если система правил по использованию брони из базового буклета кажется вам недостаточной, то вот вам целых две альтенативы:
+
+**1.** _Запас брони (ЗБ)_ в бою уменьшает урон так же как и раньше, но теперь этот _запас_ не заканчивается и, удар за ударом, просто вычитается из нанесённого урона.
+
+При этом каждый предмет доспехов обладает _костью использований_ (_КИ_):
+
+| Тип доспеха        | КИ  | ЗБ |
 |:------------:|:---:|:--:|
-| Gambeson     | d4  | 1  |
-| Leather      | d6  | 2  |
-| Chain Mail   | d8  | 3  |
-| Plate & Mail | d10 | 4  |
-| Small Shield | d4  | 1  |
-| Large Shield | d4  | 2  |
+| Стёганка     | d4  | 1  |
+| Кожанка      | d6  | 2  |
+| Кольчуга   | d8  | 3  |
+| Полный латный доспех | d10 | 4  |
+| Щит малый | d4  | 1  |
+| Щит большой | d4  | 2  |
 
-Immediately after a fight where armor has been used to reduce damage, its Usage Die must be rolled. If the roll is a 1 or 2 the Usage Die reduces as per normal, and the Armor then has the AP of the armor above it in the table. So for example failing a UD roll for Chain would reduce it to having 2 AP (Leather).
+Сразу после боя, в котором броня была использована для уменьшения урона, игрок должен произвести бросок _кости использований_. Если результат броска 1 или 2, кость уменьшается согласно базовым правилам, а предмет приобретает _запас брони_ равный соответствующей _кости_ из таблицы.
 
-If the UD is a d4 and fails, it's considered destroyed and should be removed from a players inventory. Armor can be repaired however - roll its current Usage Die and multiply the amount by 10, this is the cost to upgrade the Usage Die to the next die up in the chain.
+> Например, проваленный бросок для кольчуги снизит её _ЗБ_ до 2 (что делает потрёпанную кольчугу ничем не лучше кожанки).
 
-## Reach weapons
+Если _кость использований_ уже _d4_ и бросок провален, предмет разрушается и вычёркивается из инвентаря персонажа.
 
-When a creature moves so they are **Close** to a PC who has a long weapon, the defence roll against the creatures first attack is at Advantage.
+До этого момента броня может быть восстановлена -- бросьте текущую _кость использований_ и умножьте результат на 10: именно такую сумму придётся заплатить персонажу для восстановления состояния доспеха до следующей по старшинству кости.
 
+## Длинномерное оружие
 
-## More armor
+Когда противник перемещается и оказывается _рядом_ с персонажем вооружённым _длинномерным_ оружием (копьём, алебардой, двуручным мечом, и т.п.), проверка _избегания урона_ от этого противника производится с _преимуществом_.
 
-If you like the existing Armor system, but just want to give it a bit of a boost carefully consider two small changes you can make that dramatically increase the Armors power.
+## Больше брони
 
-Double Armor points on everything and remove the need to rest an hour - have Armor points refresh at the end of a fight. Simple.
+> Если вам нравятся базовые правила по броне, и вы просто хотите сделать броню чуть более значимой, то вот -- два небольших изменения, заметно увеличивающие её защитный потенциал.
+
+Увеличьте _запас брони_ вдвое и не требуйте часа на отдых -- просто восстанавливайте _запас_ сразу после боя.
 
 *The default armor rules cater for a gritty and harsh feeling where armor is literally the difference between life and death, the kind of encounters where a handful of HP can mean walking away or rolling on the Out of Action table - In keeping with the unforgiving, player choice nature of OSR style play.*
 
-*Further consider that a HD 1 creature only does d4 (2) points of damage, so how will he hurt a hero wearing Chain or Plate? This is fine if the armor progresses in quality as the Monsters and Levels do in difficulty, however if early level players find themselves wearing high end armor - the GM will struggle to offer them genuine threats and challenges as they will shrug of most, if not all damage from low level sources.*
+> Базовые правила по использованию брони стимулируют у игроков неуютное ощущение, что именно броня, буквально, отделяет их от неминуемой смерти и бросков по таблице _выбывания из строя_ после каждой случайной встречи с монстрами, что кстати вполне соответствует суровому духу _игр старой школы_.
 
-## Original armor
+Далее, отмечу, что противник с _КП1_ может нанести только _d4_ (в среднем - 2) единицы урона, и вообще не может поранить персонажа в кольчуге.
 
-The traditional concept of ascending AC bonuses can still be used with The Black Hack. Attacks are still made by rolling below attributes (such as STR and DEX) however the AC bonus of the target is added to the roll.
+Это не так уж плохо -- когда усиление брони идёт в некотором отрыве от сложности массовых противников, даже с учётом ситуаций типа _"персонажи-новички внезапно обнаружили себя одетыми в броню наивысшего качества и пожимают плечами нв ответ а жалкие потуги малохольных миньонов"_ -- ведущему в таком случае придётся придумать более интересные вызовы, чем забрасывание героев пушечным мясом.
 
-For example in ascending AC systems Leather typically adds +2 to a base of 10 (giving you AC12) - with TBH you would roll an attribute test to see if you hit or are able to avoid taking damage, and add +2 to the dice roll. The quick way to read AC from existing resources is just use the last number as a bonus.
+## Классы защиты
 
-*This is a more straightforward and simple interpretation of the original rules and it may seem strange that it was not used, however one of the main goals I set myself when designing The Black Hack was to remove 'repetitive dice roll modifiers' entirely, which I think I’ve almost managed to do - if you don't mind these small instances of arithmetic however - this could well be the purists choice for armor.*
+Традиционная концепция _классов защиты (КЗ)_ из D&D может быть использована и в рамках _TBH_.
+
+В таком случае, атака будут по прежнему требовать результата броска _d20_ со значением ниже значения соответствующего _атрибута_ (_силы_ или _ловкости_) персонажа, однако однако _КЗ_ цели атаки будет добавлен к результату броска.
+
+Для примера: в большинстве основанных на _классах защиты_ правил кожанка даёт +2 к базовому значению 10 (суммарно увеличивая сложность попадания по персонажу до 12). В TBH вы можете совершать проверки характеристик чтобы результат вашей атаки или избегания урона, просто добавляя значение +2 к результатам броска.
+
+Для скорости конвертации сторонних игровых материалов в _TBH_ вы можете просто использовать число _КЗ_ в качесте положительного модификатора.
+
+> Это весьма прямолинейный подход -- простая интерпретация оригинальных правил D&D. Вам может показаться странным его отсутствие в основном буклете правил, однако одной из основных целей дизайна TBH было сокращение всяких повторяющихся модификаторов, и этой цели я более-менее достиг.
+
+> Как бы-то ни было, если вас не смущает небольшое уложнение расчётов, вы можете применять это правило как более _классический_ вариант работы с игровой бронёй.
 
 ## FAQ
 
-***How many times can you normally move in a turn?***
+Q: Сколько раз за один ход персонаж может совершить _перемещение_?
 
-Assuming you don't have any spells cast on you, or some weird and silly fiat - 2 if you give up your action. That means you could get to somewhere **far-away**.
+A: Приняв во внимание, что на него не действует какая-нибудь магия и он не совершает никаких действий -- два раза. Таким образом, за один ход персонаж может сразу оказаться где-нибудь _в отдалении_.  
 
-***Does it have to be roll below? Why not on or below?***
+Q: Почему мне обязательно получать на броске "меньше чем характеристика", ведь проще было бы "меньше либо равно"?
 
-So even if you have 20 in a stat there's always a legitimate chance of failure.
+A: Потому что при "всегда меньше" вы имеете шанс на провал, даже раскачав вашу характеристику до максмальной 20-ки.
 
-***Armor, how does that work?***
+Q: А как вообще работает броня?
 
-You use you armor to soak damage, when armor has soaked its maximum damage you start losing HP. Only when you rest for an hour do you recover your **Armor Points**. So, for example Plate and Mail is a form of 8 temporary HP.
+A: Вы используете _запас брони_, чтобы поглотить урон, когда этот запас исчерпан, вы начинаете тратить собственный _запас прочности_. Вам нужно отдохнуть не менее часа, для того чтобы броня снова начала приносить пользу. Ну и, для примера, полный латный доспех может поглотить до 8 единц урона.
 
-***How many new spells can be added to the spellbook on a level up?***
+Q: Сколько (по максимуму) новых заклинаний можно добавить в мою волшебную книгу после получения нового уровня?
 
-Players in my game have to actively search out spells - but you should do it to suite the preference of all the players at your table. If in doubt, vote on it.
+A: Конечно персонажи в _TBH_ могут стараться постоянно расширять свои магические возможности, однако это должно происходить в согласии со всеми игроками. Так что, Если у вас есть сомнения относительно количества новых заклинаний, обсудите это с вашей группой.   
 
-***If a PC summons a creature, and I want the player to roll attacks/defenses for the creature, should it use one of the PCs stats, or should it have its own statline and HD?***
+Q: Если персонаж игрока призвал монстра, и я решил, что этот игрок будет сам делать броски за этого монстра, нужно использовать параметры его персонажа или параметры (_КП_) самого монстра?
 
-I would have the PC test their relevant stat - especially for 'throwaway' summoned creatures. Perhaps if it was a more regular cast member (like a certain dark elf's panther pet) I'd give it HD and a single line special ability that fits it narratively.
+A: Я обычно позволяю игроку использовать для бросков наиболее подходящий _атрибут_ персонажа, особенно когда речь идёт об обычном "одноразовом" монстре. Если же мы имеем дело с регулярно призываемым созданием (типа пантеры -- питомца тёмного эльфа) я назначаю такому питомцу конкретную _КП_ и какое-нибудь особое умение.
 
-***What do I do resolve situation X?***
+Q: Как мне разрешить спорную ситуацию Х?
 
-Ask a player to test an Stat to see if X happens or not, or if that notion feels like overkill - X should probably 'just happen'. Consider powerful opponents and levels for challenges and situations.
+A: Попросите вовлечённого в ситуацию игрока сделать проверку подходящего _атрибута_ персонажа, чтобы определить исход или, если проверка всё-таки не нужна, просто расскажите что произошло. Не забудьте также сопоставить сложность противников и _уровни развития_ сторон в случае прямого проитвостояния.   
 
-***There are no bows /1 handed weapons on the equipment list?***
+Q: Почему нет одноручного оружия и луков в списке доступного снаряжения?
 
-Yeah, my bad. Bows should cost the same as 2-Handed weapons. 1 handed weapons should probably be half that.
+A: Мда, это я упустил. Луки стоят столько же, сколько двуручное оружие, а одноручное оружие вдвое дешевле.
 
-***How far can bows shoot?***
+Q: Как далеко можно выстрелить из лука?
 
-The rules state that ranged attacks against Close targets have Disadvantage. Therefore by lack of ruling they can shoot Distant targets, although I'd probably rule that those shots have Disadvantage too.
+A: Согласно базовым правилам, все стрелковые атаки против того кто _рядом_ с тобой производятся с _осложнением_. В базовых правилах нет ничего, что мешает лучнику подстрелить цель когда она уже _далеко_, но я предлагаю так же совершать дальние выстрелы с _осложнением_.  
 
-***Why rename Turns and Rounds?***
+Q: Зачем вообще было переименовывать ходы и раунды в моменты/минуты?
 
-I like the conversational approach of Advantage, Disadvantage, Nearby, Close etc. So saying to a player 'What are you doing this very Moment' whilst in combat makes sense. And asking a player what they doing this very Minute whilst exploring, just works. You can be as abstract or specific as you please. 6 Moments, 10 Minutes or just Moments and Minutes. Whatever you like.
+A: Лично мне нравится естественно-разговорный подход к игре с использованием терминов вроде _преимущества_, _осложнения_, _неподалёку_, _рядом_ и т.п. Так что когда я говорю в бою "Что ты делаешь в этот _момент_?", для игрока мой вопрос имеет весьма осязаемый смысл. Или, например, -- "Что вы делаете в эту _минуту_?", при исследовании подземелья, тоже работает просто и изящно. С такими правилами вы можете быть настолько астрактным насколько хотите: 6 мгновений, 10 минут, или просто "несколько мгновений" и "сколько-то минут" -- всё, что душе угодно.    
 
-***There aren't any guides for the use of Advantage and Disadvantage?***
+Q: Нет ли какито-то более конкретных инструкций по определению/назначению _преимуществ_ и _осложнений_?
 
-No, it's not in The Black Hack nature to give out comprehensive anything. The GM must develop their own individual 'ass groove'.
+A: Нет, потому что не в духе TBH настолько усложнять что-либо. Ведущий должен разобраться с этим сам, по собственному наитию.
 
-***Is there no way to make a fight mechanically interesting except the Advantage/Disadvantage ?***
+Q: Есть ли какие-то способы разнообразить бой кроме _преимуществ_ и _осложнений_?
 
-Yes loads, but it wouldn't fit the scope of the game to include them. 20 A5 pages is very light. In the DIY community tradition the GM is encouraged to grow the game in the direction that suites them and their table.
+A: Да и много, но перед механикой TBH не ставилось цели описать их все. 20 страниц правил формата А5 это весьма немного. В нашем "сделай-сам" ролевом сообществе обычно принято что ведущий скорее вдохновляется правилами, развивая их нужным ему и его игровой группе способом.
 
-***Why are their four range bands ?***
+Q: Зачем нужны эти четыре типа дистанций?
 
-Because you might want to know how far away something is.
+A: Затем, чтобы вы представляли насколько далеко те или иные вещи.
 
-***The rules are vague, why?***
+Q: У вас правила недостаточно подробные, почему так?
 
-The Black Hack assumes you already know how to play a roleplaying game. If you don't, and you just happened upon the game - please email me, because I'd love to know how you found it.
+A: Правила _TBH_ исходят из того, что вы уже знаете как играть в настольные ролевые игры. Если вы этого не знаете, и у вас вдруг оказался экземпляр правил -- пожалуйста напишите мне на e-mail, мне очень интересно узнать откуда он у вас.
 
-## A living document
+## Об изменениях
+Я время от времени обновляю этот документ. Номер текущей версии вы можете найти в начале документа.
 
-I'll be adding to this document over time, as and when. The version will be updated at the front.
-
-For The Black Hack stuff go to the 'ever-so-memorable' :
-
-http://dngnsndrgns.blogspot.co.uk/
+Для получения остальных дополнений к TBH посетите http://dngnsndrgns.blogspot.co.uk/
